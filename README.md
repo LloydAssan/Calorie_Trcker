@@ -1,6 +1,6 @@
 # CALORIE_TRCKER
 
-This is a very useful application that helps the user keep track of their daily intake count calories.
+This is a very useful application that helps the user keep track of their daily intake of calories.
 
 
 
