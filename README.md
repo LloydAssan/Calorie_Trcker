@@ -5,7 +5,7 @@ This is a very useful application that helps the user keep track of their daily 
 
 
 
-![alt tag](chef1.jpg)
+![alt tag](calTrck.png)
 
 ## Installation
 
