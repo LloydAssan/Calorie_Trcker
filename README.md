@@ -1,3 +1,12 @@
+# CALORIE_TRCKER
+
+This is a very useful application that helps the user keep track of their daily intake count calories.
+
+
+
+
+![alt tag](chef1.jpg)
+
 ## Installation
 
 1. Clone repo
@@ -6,7 +15,7 @@
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:4000`
 
 ## Credit
 
