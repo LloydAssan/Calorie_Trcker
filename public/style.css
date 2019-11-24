@@ -1,0 +1,16 @@
+body{
+  background-image: url("img/curry1.jpeg");
+  background-size: 100%;
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+
+a {
+    color: #428bca;
+    text-decoration: none;
+    background: transparent;
+    font-size: 22px;
+}

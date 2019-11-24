@@ -1,0 +1,27 @@
+body{
+  background-image: url('calCount.png');
+  background-size: cover;
+  height: 100vh;
+  padding:0;
+  margin:0;
+}
+
+h1{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  margin: .67em 0;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.jumbotron{
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+  background-color: #eee;
+}
