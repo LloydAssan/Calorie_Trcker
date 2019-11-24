@@ -7,6 +7,9 @@ This is a very useful application that helps the user keep track of their daily 
 
 ![alt tag](calTrck.png)
 
+## Tools Used
+  JAVASCRIPT, HTML, CSS, NODE.JS, MONGODB
+
 ## Installation
 
 1. Clone repo
